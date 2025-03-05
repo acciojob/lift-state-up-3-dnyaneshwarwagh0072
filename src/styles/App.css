@@ -1,1 +1,37 @@
-
+.parent {
+    background-color: #7fff00; /* Bright Lime Green */
+    padding: 20px;
+    text-align: center;
+    border: 2px solid black;
+  }
+  
+  .child {
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  .child1 {
+    background-color: #a52a2a; /* Brown */
+    color: white;
+  }
+  
+  .child2 {
+    background-color: #ffd700; /* Gold */
+    color: black;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: white;
+  }
+  
+  button:hover {
+    background-color: lightgray;
+  }
+  
